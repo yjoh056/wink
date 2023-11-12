@@ -14,3 +14,5 @@
 - HTML5
 - CSS3
 - jQuery v3.7.1
+
+[피그마시안](https://www.figma.com/proto/N2pREMALQiQ0pweHxEwNuT/Untitled?page-id=0%3A1&type=design&node-id=1-4&viewport=181%2C-171%2C0.62&t=AAop8OKyCYCOuSuI-1&scaling=min-zoom&mode=design)
